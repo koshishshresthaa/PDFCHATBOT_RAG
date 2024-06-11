@@ -358,7 +358,7 @@ langchain-core==0.2.5
 langchain-text-splitters==0.2.1
 langcodes @ file:///home/conda/feedstock_root/build_artifacts/langcodes_1714235526219/work
 langid==1.1.6
-langsmith==0.1.75
+langsmith==0.1.76
 language_data @ file:///home/conda/feedstock_root/build_artifacts/language-data_1714193818885/work
 lazy_loader==0.3
 learntools @ git+https://github.com/Kaggle/learntools@ca2a51ee0085e4943cadaf5e9fe7dce2ec947d3c
@@ -470,7 +470,7 @@ optree==0.11.0
 optuna==3.6.1
 orbax-checkpoint==0.5.15
 ordered-set==4.1.0
-orjson==3.10.3
+orjson==3.10.4
 ortools==9.4.1874
 osmnx==1.9.3
 overrides @ file:///home/conda/feedstock_root/build_artifacts/overrides_1691338815398/work
@@ -544,6 +544,7 @@ pyct==0.5.0
 pycuda==2024.1
 pydantic==2.5.3
 pydantic_core==2.14.6
+pydeck==0.9.1
 pydegensac==0.1.2
 pydicom==2.4.4
 pydocstyle==6.3.0
@@ -567,6 +568,7 @@ pymongo==3.13.0
 Pympler==1.0.1
 PyMuPDF==1.24.5
 PyMuPDFb==1.24.3
+pyngrok==7.1.6
 pynndescent==0.5.12
 pynvjitlink @ file:///opt/conda/conda-bld/work
 pynvml @ file:///home/conda/feedstock_root/build_artifacts/pynvml_1639061605391/work
@@ -698,6 +700,7 @@ statsmodels==0.14.1
 stemming==1.0.1
 stop-words==2018.7.23
 stopit==1.1.2
+streamlit==1.35.0
 stumpy==1.12.0
 sympy==1.12.1
 tables==3.9.2
@@ -800,6 +803,7 @@ vtk==9.3.0
 Wand==0.6.13
 wandb==0.17.0
 wasabi @ file:///home/conda/feedstock_root/build_artifacts/wasabi_1715409644734/work
+watchdog==4.0.1
 watchfiles==0.21.0
 wavio==0.0.9
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
