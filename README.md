@@ -22,6 +22,9 @@ Chatbot that can answer user queries from any documents and add a conversational
 3. Run the cells in the notebook to launch the Streamlit app.
 4. Use the file uploader to upload a PDF document and interact with the chatbot via the user interface.
 
+
+![Screenshot from 2024-06-11 21-01-14](https://github.com/koshishshresthaa/PDFCHATBOT_RAG/assets/92670152/0ac5c0ec-640b-4f86-97ff-a6ca8ca27d51)
+
 ## Dependencies:
 
 Ensure you have the necessary dependencies installed. You can install them using the following command:
