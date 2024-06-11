@@ -2,6 +2,7 @@
 
 This repository contains a chatbot project developed using LangChain and the Ollama model. It includes two Jupyter Notebook files and a `requirements.txt` file.
 Chatbot that can answer user queries from any documents and add a conversational form for collecting user information (Name, Phone Number, Email) when user ask chatbot to call them.
+( Work in Progress ... )
 
 ## Files:
 
